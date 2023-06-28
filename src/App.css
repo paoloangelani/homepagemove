@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+}
+
+.hole {
+  width: 40vh;
+}
+
+.home {
+  background-image: url(../src/img/bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

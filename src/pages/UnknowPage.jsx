@@ -1,5 +1,5 @@
 import React from "react";
-import Unknow from "../components/layout/Unknow";
+import Unknow from "../components/Unknow";
 
 const ContactPage = () => {
   return (
